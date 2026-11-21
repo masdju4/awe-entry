@@ -1,0 +1,8 @@
+# Harness and kit files, not the entry
+RULES.txt
+opencode.json
+.opencode/
+
+# Scratch run directories
+scratch-run/
+scratch/
